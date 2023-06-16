@@ -10,7 +10,7 @@ Abaixo temos um pequeno exemplo:
 
 ![image](https://github.com/marcusmazzo/bigcolorcompany/assets/1068874/96defc0e-3c88-415c-97a7-51d5c32dc6fc)
 
-O identificador não precisa ser sequencial, a única restrição é que este identificador não possa se repetir.
+O identificador não precisa ser sequencial, a única restrição é que este identificador não seja repetido.
 
 
 ## Necessidade
