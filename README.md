@@ -23,4 +23,14 @@ A BigColorCompany informou que não há necessidade de ter o desenvolvimento de 
 ### Pretende-se:
 
 1. Que seja disponibilizado um software que forneça funções de inserir, excluir, listar todas cores, listar apenas uma cor selecionada pelo cliente e, em caso de erro no cadastro ou alteração de padrões da cor previamente salva, o usuário poder atualizar a cor.
+2. O software deve ser compatível com os padrões de qualidade exigidos no mercado atual
+3. O software deve ser acessível por plataformas diversas (websites, aplicações móveis, outros sistemas que queiram utilizar a informação, etc)
+
+A BigCompanyColor indica o uso da seguinte tecnologia:
+
+1. Java 11
+2. Spring Boot compatível com Java 11
+3. Maven
+
+
    
